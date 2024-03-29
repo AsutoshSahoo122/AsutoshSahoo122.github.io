@@ -25,6 +25,7 @@ img {
 
 header {
     margin-left: 300px;
+    margin-right: 600px;
     background-color: #000000;
     color: rgb(255, 255, 255);
     text-size-adjust: 50px;
@@ -34,6 +35,7 @@ header {
 
 section {
     margin-left: 300px;
+    margin-right: 600px;
     padding: 1px;;
     text-align: auto;
     color: rgb(255, 255, 255);
@@ -68,7 +70,7 @@ div{
 
 
 .lar_ge {
-    font-size: 25px;
+    font-size: 35px;
     color: white;
 }
 .small {
@@ -95,12 +97,12 @@ h1, h2 {
     color: #ffffff;
 }
 
-a {
+h1, h2 {
     color: #8ce400;
     text-decoration: none;
 }
 
-a:hover {
+h1, h2:hover {
     text-decoration: underline;
 }
 
