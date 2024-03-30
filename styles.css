@@ -48,8 +48,10 @@ section:hover {
     font-stretch: extra-condensed;
 }
 div{
+    width: max-content;
     margin-left: 100px;
-    padding: 10px;;
+    padding: 10px;
+
     
     color: rgb(255, 255, 255);
     background-color: black;
